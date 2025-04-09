@@ -20,7 +20,7 @@ A simple and interactive React application that calculates the growth of an inve
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/BekaluEshete/Investment-Calculator.git
+git clone https://github.com/BekaluEshete/Investment-Calculator-.git
 cd calculator
 npm install
 npm start
